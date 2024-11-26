@@ -1,2 +1,2 @@
 # Bikers-Survey
-The data set was downloaded online, extracted the needed column and analysed it with MS-excel. the survey was conducted on Bikers across Europe and North America within an age bracket and working range. 
+This dataset contains demographic, lifestyle, and purchasing behavior data for individuals. It is designed to provide insights into how personal and socioeconomic factors influence the decision to purchase a bike. The data can be used for exploratory analysis, machine learning, and predictive modeling.
